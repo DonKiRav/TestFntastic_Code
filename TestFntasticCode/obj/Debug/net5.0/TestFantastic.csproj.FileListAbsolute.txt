@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\Fantastic\TestFantastic\bin\Debug\net5.0\TestFantastic.exe
+C:\Users\USER\Desktop\Fantastic\TestFantastic\bin\Debug\net5.0\TestFantastic.deps.json
+C:\Users\USER\Desktop\Fantastic\TestFantastic\bin\Debug\net5.0\TestFantastic.runtimeconfig.json
+C:\Users\USER\Desktop\Fantastic\TestFantastic\bin\Debug\net5.0\TestFantastic.runtimeconfig.dev.json
+C:\Users\USER\Desktop\Fantastic\TestFantastic\bin\Debug\net5.0\TestFantastic.dll
+C:\Users\USER\Desktop\Fantastic\TestFantastic\bin\Debug\net5.0\ref\TestFantastic.dll
+C:\Users\USER\Desktop\Fantastic\TestFantastic\bin\Debug\net5.0\TestFantastic.pdb
+C:\Users\USER\Desktop\Fantastic\TestFantastic\obj\Debug\net5.0\TestFantastic.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Fantastic\TestFantastic\obj\Debug\net5.0\TestFantastic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Fantastic\TestFantastic\obj\Debug\net5.0\TestFantastic.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Fantastic\TestFantastic\obj\Debug\net5.0\TestFantastic.AssemblyInfo.cs
+C:\Users\USER\Desktop\Fantastic\TestFantastic\obj\Debug\net5.0\TestFantastic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Fantastic\TestFantastic\obj\Debug\net5.0\TestFantastic.dll
+C:\Users\USER\Desktop\Fantastic\TestFantastic\obj\Debug\net5.0\ref\TestFantastic.dll
+C:\Users\USER\Desktop\Fantastic\TestFantastic\obj\Debug\net5.0\TestFantastic.pdb
+C:\Users\USER\Desktop\Fantastic\TestFantastic\obj\Debug\net5.0\TestFantastic.genruntimeconfig.cache
